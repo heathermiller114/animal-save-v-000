@@ -21,7 +21,7 @@ html {
 /* Write your solution here */
 @media only screen and (max-width: 1090px) {
  #dolphin {
-   transform: rotate(-0.25);
+   transform: rotate(-0.25turn);
    position: absolute;
    top: 200px;
  } 
